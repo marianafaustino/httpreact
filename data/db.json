@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "mari",
+      "price": "1",
+      "id": 4
+    },
+    {
+      "name": "mari",
+      "price": "1",
+      "id": 5
+    },
+    {
+      "name": "dg",
+      "price": "1",
+      "id": 6
+    },
+    {
+      "name": "dg",
+      "price": "1",
+      "id": 7
+    },
+    {
+      "name": "HTML5 CSS3",
+      "price": "4",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "name": "mari",
+      "price": "77",
+      "id": 19
+    },
+    {
+      "name": "microfone",
+      "price": "49.99",
+      "id": 20
+    },
+    {
+      "name": "microfone",
+      "price": "22",
+      "id": 21
+    },
+    {
+      "name": "microfone",
+      "price": "22",
+      "id": 22
+    },
+    {
+      "name": "microfone",
+      "price": "22",
+      "id": 23
+    },
+    {
+      "name": "microfone",
+      "price": "22",
+      "id": 24
+    },
+    {
+      "name": "microfone",
+      "price": "22",
+      "id": 25
+    },
+    {
+      "name": "microfone",
+      "price": "22",
+      "id": 26
+    },
+    {
+      "name": "HTML5 CSS3",
+      "price": "5",
+      "id": 27
+    },
+    {
+      "name": "HTML5 CSS3",
+      "price": "5",
+      "id": 28
+    },
+    {
+      "name": "HTML5 CSS3",
+      "price": "5",
+      "id": 29
+    },
+    {
+      "name": "HTML5 CSS3",
+      "price": "5",
+      "id": 30
+    }
+  ]
+}
